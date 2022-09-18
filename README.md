@@ -1,2 +1,2 @@
-# -HSBC-sCode
+# HSBC-sCode
 zjn'sCode
